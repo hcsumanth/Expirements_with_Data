@@ -8,3 +8,8 @@ A long, boring and hard method is to go through implementing the models to under
 + Introduction to Algorithms, Third Edition by Thoms Coreman et all http://mitpress.mit.edu/books/introduction-algorithms-third-edition brings solid material to understand the Algorithms.
 + Machine Learning by Andrew NG is one of the best place for Machne Learning course 
 + Tensorflow is a powerful Python library for Deep Learning
+
+Please feel free to copy and use my code for learning and teaching purpose or send me a pull, I would be satisified by using the project in following way:
+
+Used in teaching and learning any means other than at a free event unlike a paid course
+Use of material for a non profit monetory gain
